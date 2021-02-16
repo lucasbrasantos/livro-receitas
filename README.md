@@ -1,4 +1,4 @@
-# Livro de receitas
+# Livro de receitas (☞ﾟヮﾟ)☞
 
 Olá bem livro ao meu livro de receitas :wave:
 
