@@ -15,4 +15,5 @@
 
 
 
-<video src="./assets/pao-na-chapa-video.mp4" />
+<video src="./assets/pao-na-chapa-video.mp4" controls></video>
+
